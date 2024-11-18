@@ -1,3 +1,3 @@
 # SimoneCaggiano.github.io
 <h1>Libro di informatica</h1>
-<h2 a href="Copertina.html"> Copertina
+<a href="Copertina.html"><h2>Copertina</h2>

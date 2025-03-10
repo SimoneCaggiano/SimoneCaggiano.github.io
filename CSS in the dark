@@ -8,7 +8,7 @@ Welcome to CSS in the DARK!
 <p class="testo">Sono largo 250px: spostami!</p>
 </div>
 <style>
-    #H1 {
-        
+    #h1 {
+        font-style: italic;
     }
 </style>
